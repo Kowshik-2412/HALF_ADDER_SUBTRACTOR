@@ -1,4 +1,5 @@
 # HALF ADDER SUBTRACTOR
+# Developed by: RegisterNumber:212224040164
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -51,7 +52,6 @@ Figure -02 HALF Subtractor
 **Program:**
 ![image](https://github.com/user-attachments/assets/5c42d07f-ee90-4f84-a7f0-65b2941613d1)
 
-Developed by: RegisterNumber:212224040164
 
 **RTL Schematic**
 ![image](https://github.com/user-attachments/assets/c75e9331-52ac-4a22-84c5-12e8da5c123c)
